@@ -12,7 +12,7 @@ Le développement tourne autour de 3 parties principales :
 2. Conception de l'architecture du site
 3. Mise en ligne du site
 
- # Le cahier des charges :
+ # Le cahier des charges 
  
 Mon tuteur n'avait pas du tout de cahier des charges j'ai alors du le concevoir avec lui et la responsable du service commerciale.
 J'ai mis beaucoup de temps à comprendre leur besoin et je pense que ça a été la partie la plus compliqué de mon stage.
@@ -20,7 +20,7 @@ Ils ne savaient pas vraiment ce qu'ils voulaient que ce soit pour les differente
 J'ai aussi du dessiner leur logo.
 Après plusieurs prototype on s'est enfin mis d'accord sur le site.
 
-# Wordpress le site :
+# Wordpress le site 
 
 Voila le tableau de bord de wordpress :
 
@@ -31,8 +31,19 @@ Tout d'abord on choisit un "thème". Ce thème va instancier toute les fonctionn
 
 ![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/Theme.JPG)
 
-![Capture.png](
-![Capture.png](
+Après avoir crée un "thème enfant" pour pouvoir travailler sur le code sans tout casser.
+J'ai commencé a comprendre comment fonctionne wordpress. Le logiciel repose sur l'utilisation d'extensions :
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressExtr.JPG)
+
+Ces extensions permettent de gérer des fonctionnalitées suplémentaires. Notament l'extension de designe "ELementor" que j'ai utilisé pour construire les pages du site.
+
+ # Les pages 
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordPressPages.JPG)
+
+
+
 ![Capture.png](
 ![Capture.png](
 ![Capture.png](
