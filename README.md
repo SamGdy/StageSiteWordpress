@@ -42,17 +42,52 @@ Ces extensions permettent de gérer des fonctionnalitées suplémentaires. Notam
 
 ![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordPressPages.JPG)
 
+Elementor permet de construire les pages avec un interface graphique. Cette extension génère ensuite tout le code html et php.
 
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressElementor.JPG)
 
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
-![Capture.png](
+Toutes les pages ont été simple a réaliser.
+Pour quelque réajustement j'ai codé du css dans "l'éditeur de thème" (La raison pour laquelle il faut faire un thème enfant)
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressCodeCSS.JPG)
+
+Enfin j'ai utiliser l'extension "ContactForm7" afin de réaliser mon formulaire.
+Ce formulaire doit derrière envoyer un mail à mon tuteur avec les informations saisi sur le site.
+
+# Le formulaire 
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressContact.JPG) 
+
+La création du mail :
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressContact2.JPG)
+
+J'ai aussi rajouter une extension de "Call-back" où les visiteur peuvent rentrer leur numéro qui est envoyé par mail pour un futur rappel.
+
+# La mise en ligne 
+
+Mon tuteur avait déja loué sont nom de domaine ainsi que le serveur OVH.
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/OVH.PNG)
+
+Avant la mise en ligne : 
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/AvantEnligne.PNG)
+
+J'ai alors utiliser un e solution FTP afin d'upload mon site sur le serveur : FileZilla
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/Fili.PNG)
+
+Apès m'être connecté au serveur voila l'interface de fileZilla :
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/FileZila.PNG)
+
+j'ai alors envoyé le site sur le serveur.
+Maintenant le site est en ligne. On y accede avec l'url seulement.
+Afin que le site soit référencé sur google j'ai du suivre leur indications et upload leur clef de sécurisation.
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/Referencement.PNG)
+
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/FilleZilla.PNG)
+
+Voila le lien : http://ittelecom.fr/
