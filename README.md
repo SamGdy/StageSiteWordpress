@@ -24,7 +24,7 @@ Après plusieurs prototype on s'est enfin mis d'accord sur le site.
 
 Voila le tableau de bord de wordpress :
 
-![Capture.png](https://github.com/SamGdy/StageSiteWordpress/edit/master/README.md)
+![Capture.png](https://github.com/SamGdy/StageSiteWordpress/blob/master/ImagesStage/WordpressTabBord.JPG)
 
 Wordpress est un logiciel libre qui permet de developper son site avec de nombreuse fonctionnalitées.
 Tout d'abord on choisit un "thème". Ce thème va instancier toute les fonctionnalitées de base.
